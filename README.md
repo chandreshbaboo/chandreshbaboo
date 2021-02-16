@@ -21,4 +21,4 @@ Repositories:<br />
 Way to connect with me<br />
 Email: chandresh.baboo@gmail.com<br />
 Mobile: +918586924131<br />
-LinkedIn: <p><a href="https://www.linkedin.com/in/chandresh-baboo/" >Click</a> here to view my linkedin profile.</p>
+LinkedIn:- <a href="https://www.linkedin.com/in/chandresh-baboo/" target="_new"> Check My LinkedIn Profile</a><br />
