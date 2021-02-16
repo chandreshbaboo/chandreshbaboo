@@ -19,6 +19,6 @@ Repositories:<br />
 ➢ Github, GitLab, BitBucket, SVN<br />
 <br />
 Way to connect with me<br />
-Email: chandresh.baboo@gmail.com<br />
+Email: <a href="mailto:chandresh.baboo@gmail.com">chandresh.baboo@gmail.com</a><br />
 Mobile: +918586924131<br />
 LinkedIn:- <a href="https://www.linkedin.com/in/chandresh-baboo/" target="_new"> Check My LinkedIn Profile</a><br />
