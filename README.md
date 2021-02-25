@@ -7,7 +7,7 @@ Programming Languages:<br />
 ➢ Javascript (Familiar with ES6), Typescript, HTML5<br />
 Frameworks/ Libraries:<br />
 ➢ Angular, Aurelia.js, Ionic, React, Redux, Jquery, Underscore.js, Lodash.js<br />
-➢ Express.js, NestJs<br />
+➢ Node.js, Express.js, NestJs<br />
 Plugin Integrations:<br />
 ➢ Firebase push notifications.<br />
 ➢ Google Analytics using D3 Charts, Nvd3 Chart, Amcharts<br />
