@@ -17,6 +17,8 @@ Plugin Integrations:<br />
 ➢ Etc.<br />
 Repositories:<br />
 ➢ Github, GitLab, BitBucket, SVN<br />
+Deployment CI/CD:<br />
+➢ AWS Code-pipeline<br />
 <br />
 Way to connect with me<br />
 Email: <a href="mailto:chandresh.baboo@gmail.com">chandresh.baboo@gmail.com</a><br />
